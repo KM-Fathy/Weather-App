@@ -7,7 +7,7 @@ class WeatherModel {
   final double minTemp;
   final String weatherState;
 
-  WeatherModel({
+  const WeatherModel({
     required this.cityName,
     required this.date,
     this.image,
