@@ -104,4 +104,4 @@ Theme colors and background gradients update reactively based on `weatherModel.w
 ## 📦 Core Dependencies
 
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc) - State management via Cubit
-- [dio](https://pub.dev/packages/dio) or [http](https://pub.dev/packages/http) - Network calls and JSON fetching
+- [dio](https://pub.dev/packages/dio) - Network calls and JSON fetching
