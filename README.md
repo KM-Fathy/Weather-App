@@ -6,9 +6,25 @@ A modern, responsive weather application built with Flutter that delivers real-t
 
 ## 📸 Screenshots
 
-| Initial State | Search Screen | Sunny (Cairo) | Overcast (London) |
-| :---: | :---: | :---: | :---: |
-| <img width="1264" height="2651" alt="home_page_with_no_weather_body" src="https://github.com/user-attachments/assets/bce13d0f-461b-4e1d-a1a4-3707b9fe1608" alt="Initial State"/> | <img width="1264" height="2651" alt="search_page" src="https://github.com/user-attachments/assets/5d41af49-2dd4-477a-87c9-ad533c3de1fd" alt="Search Screen"/> | <img width="1264" height="2651" alt="home_page_with_weather_info_body" src="https://github.com/user-attachments/assets/1d74e96b-7ea2-4b68-b3c7-44ed72bcbd4b" alt="Sunny Cairo"/> | <img width="1264" height="2651" alt="home_page_with_different_theme_weather_info_body" src="https://github.com/user-attachments/assets/4cfd2cf2-8486-4bc1-a92b-b363e4f5a94e" alt="Overcast London"/> |
+<h3 align="center">Initial State</h3>
+<p align="center">
+  <img width="30%" height="2633" alt="home_page_with_no_weather_body" src="https://github.com/user-attachments/assets/bce13d0f-461b-4e1d-a1a4-3707b9fe1608" />
+</p>
+
+<h3 align="center">Search Page</h3>
+<p align="center">
+  <img width="30%" height="2647" alt="search_page" src="https://github.com/user-attachments/assets/5d41af49-2dd4-477a-87c9-ad533c3de1fd" />
+</p>
+
+<h3 align="center">Sunny (Cairo)</h3>
+<p align="center">
+  <img width="30%" height="2644" alt="home_page_with_weather_info_body" src="https://github.com/user-attachments/assets/1d74e96b-7ea2-4b68-b3c7-44ed72bcbd4b" />
+</p>
+
+<h3 align="center">Overcast (London)</h3>
+<p align="center">
+  <img width="30%" height="2644" alt="home_page_with_different_theme_weather_info_body" src="https://github.com/user-attachments/assets/4cfd2cf2-8486-4bc1-a92b-b363e4f5a94e" />
+</p>
 
 ---
 
